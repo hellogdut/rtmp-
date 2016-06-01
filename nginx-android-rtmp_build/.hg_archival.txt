@@ -1,0 +1,6 @@
+repo: 4eff17414a4378feaba42876e0d3a6a50646cdee
+node: c80cb9c41a725ecf57f73a196735100aeef5b6e4
+branch: android
+latesttag: release-1.7.0
+latesttagdistance: 5
+changessincelatesttag: 11
